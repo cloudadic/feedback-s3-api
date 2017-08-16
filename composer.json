@@ -2,5 +2,8 @@
     "name": "cloudadic/feedback-api-s3",
     "require": {
         "aws/aws-sdk-php": "^3.32"
-    }
+    },
+    "autoload": {
+        "psr-4": { "cloudadic\\feedback\\": "src" }
+    },
 }
