@@ -1,5 +1,5 @@
 {
-    "name": "cloudadic/s3uploader",
+    "name": "cloudadic/feedback-api-s3",
     "require": {
         "aws/aws-sdk-php": "^3.32"
     }
