@@ -1,0 +1,6 @@
+{
+    "name": "cloudadic/s3uploader",
+    "require": {
+        "aws/aws-sdk-php": "^3.32"
+    }
+}
