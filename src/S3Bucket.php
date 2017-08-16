@@ -7,7 +7,7 @@ use Aws\S3\S3Client;
 /**
  * Description of S3Bucket
  *
- * @author ziwid
+ * @author Cloudadic
  */
 class S3Bucket {
     
