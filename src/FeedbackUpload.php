@@ -7,7 +7,7 @@ use cloudadic\feedback\S3Bucket;
 /**
  * Description of ImageUpload
  *
- * @author ziwid
+ * @author Cloudadic
  */
 class FeedbackUpload {
 
